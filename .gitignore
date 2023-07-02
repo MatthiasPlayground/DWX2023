@@ -1,1 +1,6 @@
 
+td.binlog
+
+.vs\**
+obj\**
+bin\**
